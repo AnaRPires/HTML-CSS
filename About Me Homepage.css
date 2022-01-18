@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <body style="background-color:WhiteSmoke;font-family:Arial;">
+
+  <script src="script.js"></script>
+  <center>
+    <h1 style=color:MediumVioletRed>About Me</h1>
+    <h2>Ana Pires</h2>
+    </center>
+    <h3>Trainee at TechTalent Academy</h3>
+    <p>Currently enrolled in a Cyber Security Bootcamp for the duration of 16 weeks.</p>
+
+    <br>So far I have gained the basic knowledge in the following areas:</br>
+     <div>
+      <p style="float:right"><img src="HTML&CSS.jpg" width="150" height"150"><br>
+    
+    <ol>
+      <li>Introduction to Python</li>
+      <li>HTML</li>
+      <li>CSS</li>
+    </ol><br>
+     
+    <p> To support my Home Learning Tasks I use the following as learning tools: </p>
+
+    <ul>
+      <li>Tutorials on Youtube</li>
+      <li>W3schools</li>
+      <li>Practice with Immersive Labs</li> 
+    </ul>
+
+  <p>Click the links below if you'd like to have a quick look! </p>
+  <b><p> <a 
+  href="https://www.youtube.com/watch?v=qz0aGYrrlhU&t=673s"> Youtube - programming with Mosh </a><br></b>
+
+  <b><a href ="https://www.w3schools.com"> W3schools </a><br></b>
+
+  <b><a href ="https://www.immersivelabs.com"> IL </a><br></b>
+
+  <p> Here are some of my interests: </p>
+  <adding a link to another html page>
+    <b><a href ="My interests.html"> My Interests</a></b><br><br>
+    <b><a href="RegisterForm.html"> My Register Form Details </a></b>
+    
+    
+  </body>
+</html>
